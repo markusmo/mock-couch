@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/chris-l/mock-couch.png?branch=master)](https://travis-ci.org/chris-l/mock-couch)
 
+EDIT: Updated dependencies
+
 Mock a CouchDB server for your unit tests.
 
 <img src="http://chris-l.github.io/mock-couch/img/mock-couch.svg" height="316" alt="A photo of a Mock Couch" title="&quot;It's the thing Mock Couch Soup is made from,&quot; said the Queen." />
